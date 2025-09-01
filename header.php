@@ -60,11 +60,10 @@
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="agriculture.php">Agriculture</a></li>
                         <li><a class="dropdown-item" href="mining.php">Mining & Supplies</a></li>
-                        <li><a class="dropdown-item" href="ict.html">ICT Solutions</a></li>
+                        <li><a class="dropdown-item" href="ict.php">ICT Solutions</a></li>
                     </ul>
                 </li>
-                <li class="nav-item"><a href="construction.html" class="nav-link">Construction</a></li>
-                <li class="nav-item"><a href="projects.html" class="nav-link">Projects</a></li>
+                <li class="nav-item"><a href="projects.php" class="nav-link">Projects</a></li>
                 <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
             </ul>
         </div>
